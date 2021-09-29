@@ -1,0 +1,9 @@
+Lancer minecraft une première foi en 1.16.5 puis une fois le jeu lancé fermez minecraft.
+Puis lancer le fichier forge-1.16.5-36.2.4-installer.jar et cliquez sur install client.
+Ensuite lancez minecraft (ou TLauncher) et séléctionnez la version forge 1.16.5-36.2.4 ou allez dans configurations, nouveau, mettez une nom exemple : forge 1.16.5 et déroullez la liste des versions situé en dessous pour séléctionner forge 1.16.5-36.2.4.
+Ensuite clmiquez sur options avancées, mettez -Xmx4G (ou 8 si vous avez 16go de ram) au lieu du -Xmx512M ou 2G, faite sauvegarder et lancez le jeu puis une fois lancé fermez-le.
+
+Appuyez sur les touches windows + R de votre clavier et écrivez %appdata%/minecraft.
+Si vous voyez un dossié nommé mods, allez-y sinon créez-le. Si il y a des fichiers dedans, supprimez-les et mettez les mods situées dans le dossier 1.16.5/mods dans la fichier .rar que vous venez de télécharger dans le dossier mods.
+Enfin relancez minecraft et lancez-le avec forge 1.16.5 comme version. Allez dans multijoueurs puis "nouveau serveur", mettez un nom, dans adresse du serveur mettez 83.114.59.47:25566 puis faites sauvegarder.
+Et enfin connectez vous au serveur !
